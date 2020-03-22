@@ -1,6 +1,6 @@
-# SBS OMR ScanScript
+# Safety Belt Survey (SBS) OMR ScanScript
 
-## About Safety Belt Survey
+## About SBS
 **Safety belt survey** (SBS) is a regular annual exercise conducted by the different state departments of transportation to check the drivers' compliance rate of safety belt usage. The surveyor randomly samples cars stopped at stop or signal-controlled intersections and peeks in the car from a distance, noting the characteristics of the driver and front-seat passenger on a paper form. These characteristics include seat belt usage, cell phone usage as well as estimated demographics (age group, sex, race). In most places, the observations are made manually on paper and then manually digitized.
 
 ## About ScanScript
